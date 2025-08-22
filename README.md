@@ -1,17 +1,13 @@
-# 👋 Hi, I’m Ibisportugal
-💻 **Blockchain & Cryptocurrency Developer** | Smart Contracts | Web3 | DApps  
+# Hi, I'm Brian Adams 👋
 
-I specialize in building decentralized applications, tokenized asset platforms, and smart contract solutions that reshape digital finance and ownership.  
+Passionate about network security and encryption.
 
-## 🛠 Skills
-- Blockchain: Ethereum, TON, Polygon, BSC  
-- Smart Contracts: Solidity, Rust  
-- Web3: ethers.js, web3.js  
-- Backend: Node.js, Python, Go  
-- Frontend: React, Next.js, TailwindCSS  
+## 🚀 Skills
+- Jenkins
+- Grafana
+- Helm
+- Ansible
 
-## 📫 Connect
-- 🌍 Portfolio: [yourwebsite.com](#)  
-- 💼 LinkedIn: [linkedin.com/in/yourname](#)  
-- 📧 Email: you@example.com  
-
+## 📫 Contact
+- GitHub: https://github.com/ibisportugal
+- Email: ibisportugal@example.com
