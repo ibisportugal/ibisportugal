@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m Ibisportugal
+💻 **Blockchain & Cryptocurrency Developer** | Smart Contracts | Web3 | DApps  
 
+I specialize in building decentralized applications, tokenized asset platforms, and smart contract solutions that reshape digital finance and ownership.  
 
-**ibisportugal/ibisportugal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills
+- Blockchain: Ethereum, TON, Polygon, BSC  
+- Smart Contracts: Solidity, Rust  
+- Web3: ethers.js, web3.js  
+- Backend: Node.js, Python, Go  
+- Frontend: React, Next.js, TailwindCSS  
 
-Here are some ideas to get you started:
+## 📫 Connect
+- 🌍 Portfolio: [yourwebsite.com](#)  
+- 💼 LinkedIn: [linkedin.com/in/yourname](#)  
+- 📧 Email: you@example.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
